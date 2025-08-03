@@ -7,17 +7,17 @@ This repository contains multiple data analysis projects written in Python using
 ### 1. CRM Sales Opportunities
 - **Objective:** Analyze a CRM dataset to understand sales pipelines and identify key opportunity stages.
 - **Skills:** Data cleaning, encoding, correlation analysis, exploratory data analysis (EDA)
-- **Tools:** Python, pandas, seaborn, matplotlib
+- **Tools:** Python, pandas, seaborn, matplotlib, scikit-learn
 
 ### 2. Bank Marketing Campaign
 - **Objective:** Analyze marketing campaign data to identify customer behavior and factors affecting subscription.
 - **Skills:** Data wrangling, feature analysis, visual storytelling
-- **Tools:** Python, pandas, seaborn, matplotlib
+- **Tools:** Python, pandas, seaborn, matplotlib, scikit-learn
 
 ### 3. Power Consumption Analysis
 - **Objective:** Explore household power consumption patterns over time.
 - **Skills:** Time series visualization, data transformation
-- **Tools:** Python, pandas, seaborn, matplotlib
+- **Tools:** Python, pandas, seaborn, matplotlib, scikit-learn
 
 ## 📦 Tools & Libraries
 - Python
