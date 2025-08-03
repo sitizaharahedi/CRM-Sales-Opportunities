@@ -16,23 +16,23 @@ This repository showcases end-to-end data analysis projects completed in Python 
 
 ---
 
-### 2. Power Consumption Analysis (Morocco)
-- **Project Overview:**  
-  This project analyzes electricity consumption in Morocco measured at 10-minute intervals across 3 zones. The dataset includes environmental variables such as temperature, humidity, and wind speed. The goal is to detect usage patterns, visualize consumption over time, and explore environmental factors influencing energy demand.
-- **Skills Demonstrated:**  
-  Time-series visualization, multivariable analysis, trend detection, and anomaly awareness.
-- **Tools Used:**  
-  Python, pandas, matplotlib, seaborn, scikit-learn
-
----
-
-### 3. Bank Marketing Campaign Strategy
+### 2. Bank Marketing Campaign Strategy
 - **Project Overview:**  
   The aim of this project is to find the most effective strategies for future bank marketing campaigns by analyzing data from a previous campaign. This includes customer behavior analysis and identifying patterns that influenced subscription decisions. The objective is to extract actionable insights to improve future marketing performance.
 - **Skills Demonstrated:**  
   Feature analysis, target variable insight, data preprocessing, strategic recommendation generation.
 - **Tools Used:**  
   Python, pandas, seaborn, matplotlib, scikit-learn
+  
+---
+
+### 3. Power Consumption Analysis (Morocco)
+- **Project Overview:**  
+  This project analyzes electricity consumption in Morocco measured at 10-minute intervals across 3 zones. The dataset includes environmental variables such as temperature, humidity, and wind speed. The goal is to detect usage patterns, visualize consumption over time, and explore environmental factors influencing energy demand.
+- **Skills Demonstrated:**  
+  Time-series visualization, multivariable analysis, trend detection, and anomaly awareness.
+- **Tools Used:**  
+  Python, pandas, matplotlib, seaborn, scikit-learn
 
 ---
 
